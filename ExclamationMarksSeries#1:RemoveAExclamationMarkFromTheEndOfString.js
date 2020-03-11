@@ -14,8 +14,5 @@ Please don't post issue about difficulty or duplicate.
 */
 
 function remove(s){
-  //coding and coding....
-  
   return (s[s.length-1] === "!" ? s.slice(0, -1) : s)
-
 }
