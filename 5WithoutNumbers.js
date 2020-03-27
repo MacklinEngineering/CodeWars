@@ -8,3 +8,4 @@ function unusualFive() {
   let array = ["orange", "apple", "banana", "negatory", "pizza"]
   return array.length
 }
+ 
