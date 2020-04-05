@@ -14,4 +14,4 @@ for (let i = 2; i < integer; i++) {
     array.push(i)}
 }
 return array.length===0? `${integer} is prime` : array
-}
+} 
