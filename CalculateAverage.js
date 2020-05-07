@@ -8,3 +8,4 @@ const makeSmaller = (a, b) => {return a+b};
 return array.reduce(makeSmaller)/array.length
 } 
  
+ 
