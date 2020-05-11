@@ -11,4 +11,4 @@ function opposite(number) {
   let realnumber = number
   let negnumber = -number
   return number, negnumber
-}
+} 
