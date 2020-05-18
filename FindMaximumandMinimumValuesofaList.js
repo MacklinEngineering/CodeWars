@@ -20,4 +20,4 @@ return list[0];
 var max = function(list){
     list.sort((a,b)=>{return b-a})
     return list[0];
-}
+} 
