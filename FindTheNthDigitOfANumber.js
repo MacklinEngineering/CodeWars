@@ -25,4 +25,4 @@ const findDigit = function(num, nth){
     if (nth > 1){ 
       return findDigit(Math.floor(num/10), nth - 1)};
     {return num % 10};
-}
+} 
