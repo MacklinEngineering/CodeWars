@@ -19,4 +19,4 @@ const sum = num => {
 };
 sum(num);
 return(total);
-}
+} 
