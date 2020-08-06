@@ -21,3 +21,4 @@ newArr.push(arr.filter(x=>x===newSetArr[i]).length)
 }
 return newArr.length===[...new Set(newArr)].length
 };
+ 
