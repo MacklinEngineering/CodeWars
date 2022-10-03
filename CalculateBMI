@@ -1,5 +1,5 @@
 function bmi(weight, height) {
-  let h = height^2
+  let h = height**2
  let bmi =  weight/h
 
 if (bmi <=18.5){
